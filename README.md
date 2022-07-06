@@ -1,11 +1,13 @@
 # Superstore_data_analytics
 
-***Problem:
+Problem:
 
 With growing demands and cut-throat competitions in the market, a Superstore Giant is seeking your knowledge in understanding what works best for them. They would like to understand which products, regions, categories and customer segments they should target or avoid.
 
 
-***Solution:
+
+
+Solution:
 
 The project uses data from the Superstore Giant to build a dashboard that provides information and visualizations of the contribution of each category in the data variable to performance indicators such as sales, products sold, and profit margin. The dashboard also provides a general overview of the trend in sales over the year, top products and customers, the overall revenue generated, distribution of sales across the US region, etc.
 
