@@ -2,19 +2,18 @@
 # $ conda create --name <env> --file <this file>
 # platform: osx-64
 
-matplotlib=3.5.1=py310hecd8cb5_1
-matplotlib-base=3.5.1=py310hfb0c5b7_1
-matplotlib-inline=0.1.2=pyhd3eb1b0_2
-millify=0.1.1=pypi_0
-numpy=1.22.3=py310hb608527_0
-pandas=1.4.1=py310hdd25497_0
-pillow=9.1.0=py310h382dc3b_2
-pip=22.0.4=pyhd8ed1ab_0
-plotly=5.7.0=py_0
-pmdarima=1.8.5=py310h1961e1f_0
-python=3.10.4=h8b4d769_0_cpython
-scikit-learn=1.0.2=py310h598de7d_0
-scipy=1.8.0=py310h47774c9_1
-seaborn=0.11.0=py_0
-statsmodels=0.13.2=py310h1bbcd0e_0
-streamlit=1.8.1=pyhd8ed1ab_0
+matplotlib=3.5.1
+matplotlib-base=3.5.1
+matplotlib-inline=0.1.2
+millify=0.1.1
+numpy=1.22.3
+pandas=1.4.1
+pillow=9.1.0
+pip=22.0.4
+plotly=5.7.0
+pmdarima=1.8.5
+python=3.10.4
+scikit-learn=1.0.2
+scipy=1.8.0
+statsmodels=0.13.2
+streamlit=1.8.1
