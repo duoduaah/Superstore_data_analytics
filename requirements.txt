@@ -2,8 +2,6 @@
 # $ conda create --name <env> --file <this file>
 # platform: osx-64
 matplotlib=3.5.1=py310hecd8cb5_1
-matplotlib-base=3.5.1=py310hfb0c5b7_1
-matplotlib-inline=0.1.2=pyhd3eb1b0_2
 numpy=1.22.3=py310hb608527_0
 pandas=1.4.1=py310hdd25497_0
 plotly=5.7.0=py_0
@@ -13,4 +11,4 @@ scikit-learn=1.0.2=py310h598de7d_0
 scipy=1.8.0=py310h47774c9_1
 statsmodels=0.13.2=py310h1bbcd0e_0
 streamlit=1.8.1=pyhd8ed1ab_0
-traitlets=5.1.1=pyhd3eb1b0_0
+
