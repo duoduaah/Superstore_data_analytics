@@ -1,7 +1,6 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: osx-64
-_py-xgboost-mutex=2.0=cpu_0
 abseil-cpp=20210324.2=he49afe7_0
 altair=4.2.0=pyhd8ed1ab_1
 anyio=3.5.0=py310hecd8cb5_0
@@ -14,25 +13,6 @@ astor=0.8.1=pyh9f0ad1d_0
 asttokens=2.0.5=pyhd3eb1b0_0
 async_generator=1.10=py_0
 attrs=21.4.0=pyhd3eb1b0_0
-aws-c-auth=0.6.8=h8f5e388_1
-aws-c-cal=0.5.12=hda7428a_7
-aws-c-common=0.6.17=h0d85af4_0
-aws-c-compression=0.2.14=h8451fdb_7
-aws-c-event-stream=0.2.7=ha663dc4_32
-aws-c-http=0.6.10=heb655c9_3
-aws-c-io=0.10.14=h3cf48f6_1
-aws-c-mqtt=0.7.10=h6d234a2_0
-aws-c-s3=0.1.29=h73af6b9_0
-aws-c-sdkutils=0.1.1=h8451fdb_4
-aws-checksums=0.1.12=h8451fdb_6
-aws-crt-cpp=0.17.10=haa61d5f_5
-aws-sdk-cpp=1.9.160=h075ee0a_0
-babel=2.9.1=pyhd3eb1b0_0
-backcall=0.2.0=pyhd3eb1b0_0
-base58=2.1.1=pyhd8ed1ab_0
-beautifulsoup4=4.11.1=py310hecd8cb5_0
-bleach=4.1.0=pyhd3eb1b0_0
-blinker=1.4=py_1
 boto3=1.21.45=pyhd8ed1ab_0
 botocore=1.24.45=pyhd8ed1ab_0
 brotli=1.0.9=hb1e8313_2
