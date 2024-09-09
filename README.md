@@ -16,7 +16,7 @@ Essentially, the dashboard reveals insights from the data and can be used as a c
 
 
 
-Dashboard Link --->  https://duoduaah-superstore-data-analytics-superstore-c7gms6.streamlitapp.com 
+Dashboard Link --->  https://duoduaah-superstore-data-analytics-superstore-c7gms6.streamlit.app
 
 Data Source ----> https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
